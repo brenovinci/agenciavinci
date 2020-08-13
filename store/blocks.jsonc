@@ -1,5 +1,5 @@
 /* Blocks can be defined both on the store/blocks.json file, and in any number of json
- * files nside the store/blocks directory, with any arbitrary directory structure.
+ * files inside the store/blocks directory, with any arbitrary directory structure.
  *
  * Additionally, all blocks files can support comments, such as this one, if given the
  * .jsonc file extension.
