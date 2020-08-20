@@ -6,6 +6,7 @@
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
       "__fold__.experimentalLazyAssets",
       "flex-layout.row#deals",
+      "rich-text#BoasVindas",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
       "info-card#home",
@@ -95,6 +96,16 @@
     "props": {
       "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
       "blockClass": "question"
+    }
+  },
+  "rich-text#BoasVindas": {
+    "props": {
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-2",
+      "size": "32px",
+      "text": "**Seja bem vindo a Agência Vinci**",
+      "blockClass": "BoasVindas"
     }
   },
 
